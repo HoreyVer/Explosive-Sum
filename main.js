@@ -11,3 +11,5 @@ function sum(n, m = n) {
     memo[n][m] = total;
     return total;
 }
+
+//Explosive-Sum
